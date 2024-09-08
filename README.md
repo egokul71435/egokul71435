@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-## I'm Gokul and I am a CS and DS student at Rutgers University, New Brunswick.
+## I'm Gokul and I am a CS and DS student at Rutgers University, New Brunswick
 
-## 🔭 I’m currently working on a Chrome extension suitable for students.
+## 🔭 I’m currently working on a Chrome extension suitable for students
 
 ## 🌱 I’m currently learning React and other software engineering frameworks
 
