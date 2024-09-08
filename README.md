@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+## I'm Gokul and I am a CS and DS student at Rutgers University, New Brunswick.
+
+## 🔭 I’m currently working on a Chrome extension suitable for students.
+
+## 🌱 I’m currently learning React and other software engineering frameworks
+
+## 📫 Feel free to reach me at: gokul.elangovan@rutgers.edu
+
+
 <!--
 **egokul71435/egokul71435** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
