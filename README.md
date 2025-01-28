@@ -1,12 +1,12 @@
 ## Hi there 👋
+---
+## My name is Gokul, and I am a student pursuing CS and DS at Rutgers University in New Brunswick
 
-## I'm Gokul and I am a CS and DS student at Rutgers University, New Brunswick
+## 🔭 I am currently working on understanding and building small-scale LLMs
 
-## 🔭 I’m currently working on a Chrome extension suitable for students
+## 🌱 I am also learning React and other software engineering frameworks
 
-## 🌱 I’m currently learning React and other software engineering frameworks
-
-## 📫 Feel free to reach me at: gokul.elangovan@rutgers.edu
+## 📫 Feel free to reach me at gokul.elangovan@rutgers.edu
 
 
 <!--
