@@ -1,10 +1,12 @@
-## hello 👋
+## hello! 
 ---
-## nice to meet you! i'm gokul and i'm studying cs & ds @ rutgers in new brunswick, nj
+## i'm gokul and i'm studying cs & ds @ rutgers in new brunswick, nj 
 
-## currently working on models suitable for consumer-grade hardware
+## currently interning @ wayfair this summer
 
-## reach me at gokul.elangovan@rutgers.edu
+## i'm also exploring meta-learning applications in ml 
+
+## reach me at  gokul [dot] elangovan [at] rutgers [dot] edu
 
 
 <!--
