@@ -2,11 +2,11 @@
 ---
 ## i'm gokul and i'm studying cs & ds @ rutgers in new brunswick, nj 
 
-## currently interning @ wayfair this summer
+## i interned @ wayfair this past summer
 
 ## i'm also exploring meta-learning applications in ml 
 
-## reach me at  gokul [dot] elangovan [at] rutgers [dot] edu
+## reach me at gokul [dot] elangovan [at] rutgers [dot] edu
 
 
 <!--
